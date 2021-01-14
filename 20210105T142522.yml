@@ -1,0 +1,28 @@
+id: cd80336c-fe37-4b4d-bf20-7ebe99594df2
+name: Neapolitan Pizza
+servings: 3 pizzas
+source: Serious Eats
+source_url: https://slice.seriouseats.com/2010/09/how-to-make-great-neapolitan-pizza-at-home.html
+categories: [pizza, bakery]
+notes: |
+  Dough ratio: 60% water, 2% salt, 1% yeast relative to flour
+ingredients: |
+  # Pizza dough
+  10 oz flour
+  6 oz water
+  1 t salt
+  1/2 t yeast
+
+  # Pizza sauce
+  Tomatoes
+  Salt
+directions: |
+  # Dough
+  Combine, knead a bit, let it rise overnight.
+  Form into balls, allow to rise second time.
+  
+  # Pizza
+  Preheat cast iron skillet till water slides across
+  Quickly place stretched dough into skillet, top with sauce, basil & cheese.
+  Place directly under super hot broiler.  Crust should puff, bubble and brown.
+  When top is cooked, remove from broiler and place on stove top to cook bottom.
